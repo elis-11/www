@@ -5,7 +5,7 @@ body {
     /* color: #000; */
     color: #7e7c7c;
     -webkit-font-smoothing: antialiased;
-    background-color: #fff;
+    background-color: rgb(155, 154, 154);
     /* background-color: rgb(241, 241, 241); */
 }
 *,
@@ -90,7 +90,7 @@ p {
     height: 750px;
     padding-top: 100px;
 
-    background: url("/img/head/1.png") center no-repeat;
+    /* background: url("/img/head/1.png") center no-repeat; */
     background-size: cover;
 }
 .intro_inner {
